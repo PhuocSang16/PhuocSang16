@@ -38,5 +38,5 @@ Hi, I'm Sang! I'm currently studying at the [University of Information Technolog
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhuocSang16&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="PhuocSang16's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhuocSang16&theme=city_light&hide_border=false" alt="PhuocSang16's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuocSang16&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="PhuocSang16's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuocSang16&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2" alt="PhuocSang16's Top Languages" />
 </p>
